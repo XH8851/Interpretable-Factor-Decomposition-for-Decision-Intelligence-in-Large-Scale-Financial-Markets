@@ -156,12 +156,14 @@ python scripts/run_additional_baselines.py    # float-cap & industry-neutral por
 ## Citation
 
 ```bibtex
-@misc{ashare_factor_decomp,
-  title  = {Interpretable Factor Decomposition for Decision Intelligence in
-            Large-Scale Financial Markets: Evidence from China's A-Share Market},
-  author = {Anonymous},
-  year   = {2026},
-  note   = {Manuscript}
+@misc{han2026interpretablefactordecompositiondecision,
+  title         = {Interpretable Factor Decomposition for Decision Intelligence in Large-Scale Financial Markets: Evidence from China's A-Share Market},
+  author        = {Xiao Han and Yao Xiao and Zhen Zhang and Moxuan Zheng},
+  year          = {2026},
+  eprint        = {2606.12843},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2606.12843}
 }
 ```
 
